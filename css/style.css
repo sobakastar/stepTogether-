@@ -177,10 +177,13 @@ section {
   text-align: center;
   margin-bottom: 1.6rem;
 }
+
 .logo img {
   width: 58px;
   height: 30px;
 }
+
+
 .first {
   font-size: 1.8rem;
   font-weight: 400;
@@ -295,7 +298,7 @@ section {
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background: url(../images/step_together/step2gether.jpg) no-repeat;
+  background: url(../images/step_together/group-together.jpg) no-repeat;
   background-size: cover;
   background-position: center;
 }
